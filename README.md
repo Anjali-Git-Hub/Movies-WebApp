@@ -1,7 +1,5 @@
 
 
-https://github.com/Anjali-Git-Hub/Movies-WebApp/assets/122084921/62b37031-0fca-4a07-b431-ca92201a0482
-
 # Movies WebApp
 
 ✔This is a movies web app where I've utilized React Router DOM for routing purposes. 
