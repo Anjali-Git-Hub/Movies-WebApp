@@ -2,7 +2,7 @@
 
 # Movies app using React
 
-This project was bootstrapped with [Vite](https://vitejs.dev/).
+This project was bootstrapped with [Vite | Next Generation Frontend Tooling](https://vitejs.dev/).
 
 Built using:
 
@@ -28,7 +28,7 @@ It could be Jest, Mocha, or any other testing framework.
 
 ## About Movies App 
 
-✔This is a movies web app where I've utilized React Router DOM for routing purposes. 
+✔This is a movies app where I've utilized React Router DOM for routing purposes. 
 
 
 
