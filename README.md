@@ -1,6 +1,32 @@
 
 
-# Movies WebApp
+# Movies app using React
+
+This project was bootstrapped with [Vite](https://vitejs.dev/).
+
+Built using:
+
+- Front-end library: React
+- React-router-dom library
+
+  In the /Movies app, you can run:
+
+### `npm install`
+If you haven't installed dependencies yet, you can do so by navigating to your project directory in the command line and running.
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run test`
+For running unit tests or integration tests, you would use the test runner configured in your project. 
+It could be Jest, Mocha, or any other testing framework.
+
+
+## About Movies App 
 
 ✔This is a movies web app where I've utilized React Router DOM for routing purposes. 
 
