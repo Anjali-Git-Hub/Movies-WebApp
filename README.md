@@ -26,6 +26,7 @@
 
 ✔and to manage loading states i used useNavigation hook that give me an object from that i can check the loading states .
 
+✔I used CSS modules to avoid name collisions when adding CSS styling.
 
 
 The  [Live Link](https://movies-fetch-webapp.netlify.app/)
