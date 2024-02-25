@@ -44,7 +44,7 @@ Built using:
 The  [Live Link](https://movies-fetch-webapp.netlify.app/)
   showcases how I've handled errors and demonstrates various features implemented within the application. 
 
-
+<hr>
 In the /Movies app, you can run:
 
 ### `npm install`
