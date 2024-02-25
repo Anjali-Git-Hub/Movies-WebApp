@@ -9,22 +9,6 @@ Built using:
 - Front-end library: React
 - React-router-dom library
 
-  In the /Movies app, you can run:
-
-### `npm install`
-If you haven't installed dependencies yet, you can do so by navigating to your project directory in the command line and running.
-
-### `npm run dev`
-
-Runs the app in the development mode.\
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run test`
-For running unit tests or integration tests, you would use the test runner configured in your project. 
-It could be Jest, Mocha, or any other testing framework.
-
 
 ## About Movies App 
 
@@ -59,6 +43,25 @@ It could be Jest, Mocha, or any other testing framework.
 
 The  [Live Link](https://movies-fetch-webapp.netlify.app/)
   showcases how I've handled errors and demonstrates various features implemented within the application. 
+
+
+In the /Movies app, you can run:
+
+### `npm install`
+If you haven't installed dependencies yet, you can do so by navigating to your project directory in the command line and running.
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run test`
+For running unit tests or integration tests, you would use the test runner configured in your project. 
+It could be Jest, Mocha, or any other testing framework.
+
+
 
 
 
